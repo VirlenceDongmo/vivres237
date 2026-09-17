@@ -1,0 +1,24 @@
+# Manipulation de données
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+
+# Récupération de données
+requests
+beautifulsoup4
+
+# Notebooks
+jupyter
+
+# Modélisation (à activer au fur et à mesure des étapes)
+scikit-learn
+statsmodels
+# prophet
+# xgboost
+
+# Déploiement
+streamlit
